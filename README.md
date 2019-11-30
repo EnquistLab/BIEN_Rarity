@@ -1,2 +1,4 @@
 # BIEN_Rarity
-Repository for analyses that underlie global rarity manuscript
+Repository for data and analyses in Enquist, Brian J., et al. "The commonness of rarity: Global and future distribution of rarity across land plants." (2019) Science Advances  27 Nov 2019:Vol. 5, no. 11, eaaz0414 DOI: 10.1126/sciadv.aaz0414.  https://advances.sciencemag.org/content/5/11/eaaz0414.
+
+Data and materials availability: All data needed to evaluate the conclusions in the paper are present in the paper and/or the Supplementary Materials. All data and code used in this study are available via GitHub, https://github.com/EnquistLab/BIEN_Rarity. The MATLAB code used for fitting gSADs are available from B.J.M. upon request. The public version of the BIEN database is accessible via the BIEN R package, https://cran.r-project.org/web/packages/BIEN/index.html. Additional data related to this paper may be requested from the authors.
